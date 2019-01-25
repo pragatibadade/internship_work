@@ -1,0 +1,263 @@
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+continuous : off
+ : 
+Device Name : Pun-Serv9-vm2
+Device Id calculated from : 
+------------ : ------------
+Device Sid : VMware-56 4d ee fb 72 a8 25 12-1b 68 67 0a dd 6f 6b bc
+Device Id : ba8eb8b22a521b2dd8c9984a83b7ed944830b9be
+Device MAC address : 0c:29:6f:6b:bc
+Number of files backed up :  6
+local:[' /home/user/Mozy/nest2(restore_2).c', ' /home/user/Mozy/nest2(restore_1).c', ' /home/user/Mozy/nest3(restore_2).cpp', ' /home/user/Mozy/nest1(restore_1).java', ' /home/user/Mozy/nest4(restore_2).html', ' /home/user/Mozy/nest1(restore_2).java', ' /home/user/Mozy/nest3(restore_1).cpp', ' /home/user/Mozy/nest4(restore_1).html', ' /home/user/Mozy/nested/pune(restore_1).pdf', ' /home/user/Mozy/nested/text(restore_1).txt', ' /home/user/Mozy/nested/pune(restore_2).pdf', ' /home/user/Mozy/nested/text(restore_2).txt']
+local:[' /home/user/Mozy/nest2(restore_2).c', ' /home/user/Mozy/nest2(restore_1).c', ' /home/user/Mozy/nest3(restore_2).cpp', ' /home/user/Mozy/nest1(restore_1).java', ' /home/user/Mozy/nest4(restore_2).html', ' /home/user/Mozy/nest1(restore_2).java', ' /home/user/Mozy/nest3(restore_1).cpp', ' /home/user/Mozy/nest4(restore_1).html', ' /home/user/Mozy/nested/pune(restore_1).pdf', ' /home/user/Mozy/nested/text(restore_1).txt', ' /home/user/Mozy/nested/pune(restore_2).pdf', ' /home/user/Mozy/nested/text(restore_2).txt']
+directories : /home/user/Mozy
+ls_dir : home	
+working_directory : /
+Quota available : 2.00GB
+Quota percent used : 0.00
+Quota used by this device : 0
+Quota used by other devices : 0
+local : [' /home/user/Mozy/nest2(restore_2).c', ' /home/user/Mozy/nest2(restore_1).c', ' /home/user/Mozy/nest3(restore_2).cpp', ' /home/user/Mozy/nest1(restore_1).java', ' /home/user/Mozy/nest4(restore_2).html', ' /home/user/Mozy/nest1(restore_2).java', ' /home/user/Mozy/nest3(restore_1).cpp', ' /home/user/Mozy/nest4(restore_1).html', ' /home/user/Mozy/nested/pune(restore_1).pdf', ' /home/user/Mozy/nested/text(restore_1).txt', ' /home/user/Mozy/nested/pune(restore_2).pdf', ' /home/user/Mozy/nested/text(restore_2).txt']
+ : 
+Download Cache : /tmp/downloadcache
+Product : Mozybackup
+Client Agent : msync_linux
+Network connected : yes
+needs initial sync : 1
+data center : ut3
+State : IDLE
+Client Ver : 1.7.0.5118
+Safe MO : 0
+path : /var/lib/mozybackup/state.dat
+IDLE : IDLE
+last full scan : 00:00 GMT
+Snapshot Info : Snapshot Info
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+continuous : off
+ : 
+Device Name : Pun-Serv9-vm2
+Device Id calculated from : 
+------------ : ------------
+Device Sid : VMware-56 4d ee fb 72 a8 25 12-1b 68 67 0a dd 6f 6b bc
+Device Id : ba8eb8b22a521b2dd8c9984a83b7ed944830b9be
+Device MAC address : 0c:29:6f:6b:bc
+Quota available : 2.00GB
+Quota percent used : 0.00
+Quota used by this device : 0
+Quota used by other devices : 0
+ : 
+Download Cache : /tmp/downloadcache
+Product : Mozybackup
+Client Agent : msync_linux
+Network connected : yes
+needs initial sync : 1
+data center : ut3
+State : IDLE
+Client Ver : 1.7.0.5118
+Safe MO : 0
+path : /var/lib/mozybackup/state.dat
+IDLE : IDLE
+last full scan : 00:00 GMT
+Snapshot Info : Snapshot Info
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+local : [' /home/user/Mozy/nest2(restore_2).c', ' /home/user/Mozy/nest2(restore_1).c', ' /home/user/Mozy/nest3(restore_2).cpp', ' /home/user/Mozy/nest1(restore_1).java', ' /home/user/Mozy/nest4(restore_2).html', ' /home/user/Mozy/nest1(restore_2).java', ' /home/user/Mozy/nest3(restore_1).cpp', ' /home/user/Mozy/nest4(restore_1).html', ' /home/user/Mozy/nested/pune(restore_1).pdf', ' /home/user/Mozy/nested/text(restore_1).txt', ' /home/user/Mozy/nested/pune(restore_2).pdf', ' /home/user/Mozy/nested/text(restore_2).txt']
+Account information unavailable : Account information unavailable
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+ : 
+UNINITIALIZED : UNINITIALIZED
+Product : Mozybackup
+Network connected : yes
+Download Cache : /tmp/downloadcache
+State : UNINITIALIZED
+Unavailable (no snapshot) : Unavailable (no snapshot)
+Client Ver : 1.7.0.5118
+Client Agent : msync_linux
+Snapshot Info : Snapshot Info
+ : 
+UNINITIALIZED : UNINITIALIZED
+Product : Mozybackup
+Network connected : yes
+Download Cache : /tmp/downloadcache
+State : UNINITIALIZED
+Unavailable (no snapshot) : Unavailable (no snapshot)
+Client Ver : 1.7.0.5118
+Client Agent : msync_linux
+Snapshot Info : Snapshot Info
+ : 
+UNINITIALIZED : UNINITIALIZED
+Product : Mozybackup
+Network connected : yes
+Download Cache : /tmp/downloadcache
+State : UNINITIALIZED
+Unavailable (no snapshot) : Unavailable (no snapshot)
+Client Ver : 1.7.0.5118
+Client Agent : msync_linux
+Snapshot Info : Snapshot Info
+ : 
+UNINITIALIZED : UNINITIALIZED
+Product : Mozybackup
+Network connected : yes
+Download Cache : /tmp/downloadcache
+State : UNINITIALIZED
+Unavailable (no snapshot) : Unavailable (no snapshot)
+Client Ver : 1.7.0.5118
+Client Agent : msync_linux
+Snapshot Info : Snapshot Info
+continuous : off
+continuous : off
+ : 
+Device Name : Pun-Serv9-vm2
+Device Id calculated from : 
+------------ : ------------
+Device Sid : VMware-56 4d ee fb 72 a8 25 12-1b 68 67 0a dd 6f 6b bc
+Device Id : ba8eb8b22a521b2dd8c9984a83b7ed944830b9be
+Device MAC address : 0c:29:6f:6b:bc
+ : 
+Device Name : Pun-Serv9-vm2
+Device Id calculated from : 
+------------ : ------------
+Device Sid : VMware-56 4d ee fb 72 a8 25 12-1b 68 67 0a dd 6f 6b bc
+Device Id : ba8eb8b22a521b2dd8c9984a83b7ed944830b9be
+Device MAC address : 0c:29:6f:6b:bc
+Snapshot not available : Snapshot not available
+Snapshot not available : Snapshot not available
+local : ['Scan Unavailable, the client is not connected']
+directories : /home/user/Mozy
+directories : /home/user/Mozy
+working_directory : /
+ : 
+Download Cache : /tmp/downloadcache
+Product : Mozybackup
+AUTHENTICATED : AUTHENTICATED
+Client Agent : msync_linux
+Network connected : yes
+needs initial sync : 1
+data center : ut3
+State : AUTHENTICATED
+Client Ver : 1.7.0.5118
+Safe MO : 0
+path : /var/lib/mozybackup/state.dat
+last full scan : 00:00 GMT
+Snapshot Info : Snapshot Info
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985
+ : 
+Triton (from BUS) : ut3.triton.mozy.com
+Machine name : Pun-Serv9-vm2
+Quota used other devices : 0
+Key hash (BUS) : 
+Quota : 2147483648
+Site : ut3
+Machine encryption : DEFAULT
+Quota used : 0
+Account expires : 
+Account server (BUS) : //client.mozy.com
+Container id : 9965516
+Email : anup.hande+mozy.test1@niyuj.com
+Root admin : 1055985

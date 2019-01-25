@@ -1,0 +1,2 @@
+sudo mozyutil account --bytes
+sudo mozyutil deviceidentity
